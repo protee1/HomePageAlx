@@ -1,0 +1,154 @@
+/* School Page */
+body{
+position: relative;
+width: 1440px;
+height: 3718px;
+
+background: #FFFFFF;
+}
+
+/* header */
+header{
+position: absolute;
+width: 1103.41px;
+height: 29.46px;
+left: 171.59px;
+top: 35.02px;
+
+}
+/* menu */
+
+nav {
+position: absolute;
+width: 234px;
+height: 15px;
+left: 1041px;
+top: 37px;
+}
+/* LOGIN */
+.course{
+/* COURSES */
+
+position: absolute;
+height: 15px;
+left: 0%;
+right: 78.63%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+}
+.login{
+    /* LOGIN */
+
+position: absolute;
+height: 15px;
+left: 85.47%;
+right: 0%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.pricing{
+    /* PRICING */
+
+position: absolute;
+height: 15px;
+left: 43.59%;
+right: 37.18%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.logo{
+    /* logo */
+
+position: absolute;
+width: 167.02px;
+height: 29.46px;
+/*left: 171.59px;*/
+top: 35.02px;
+background-color: #000000;
+
+}
+.main_part{
+    /* main_part */
+
+position: absolute;
+width: 1440px;
+height: 1093px;
+left: 0px;
+top: 0px;
+
+
+}
+.pros{
+    /* pros */
+
+position: absolute;
+width: 1009px;
+height: 237px;
+left: 217px;
+top: 758px;
+
+
+}
+.pro1{
+    /* pro_1 */
+
+position: absolute;
+left: 15.07%;
+right: 74.51%;
+top: 69.35%;
+bottom: 8.97%;
+
+}
+.pro1a{
+    /* avatar */
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+}
+.pros_img{
+    /* 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+background: url(Image);
+
+}
+.pro1b{
+
+}
+
